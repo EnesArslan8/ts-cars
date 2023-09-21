@@ -16,6 +16,10 @@ body{
 body .App{
     width: 100%;
     height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 .header{
     display: flex;
@@ -27,9 +31,56 @@ body .App{
     box-shadow: 0 5px 20px rgba(0, 0, 0, .4);
     background-color: #343a40;
 }
+
 .header .title{
     font-size: 40px;
     letter-spacing: 2rem;
     color: #d9d9d9;
     text-shadow: 2px 2px 0 rgba(255, 0, 0, 0.5);
+}
+.caption{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.caption .captionArea{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+.caption .captionArea p{
+    padding: 1rem 0;
+    font-size: 18px;
+    letter-spacing: 1.3px;
+    text-shadow: 1px 1px rgba(0, 0, 0, .2);
+    text-indent: 3rem;
+    line-height: 2rem;
+}
+.caption .filterArea{
+    margin-top: 5rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.caption .filterArea .filterInput{
+    width: 60%;
+    height: 2rem;
+    border-radius: 20px;
+    padding: 1.5rem 2rem;
+    transition: 400ms all;
+    box-shadow: 0px 5px 20px  rgba(0, 0, 0, .3);
+    font-size: 18px;
+}
+.caption .filterArea .filterInput:focus{
+    box-shadow: 5px 5px 0px  rgba(0, 0, 0, .3);
+}
+.width{
+    width: 80%;
+    margin-top: 5rem;
+    height: 100%;
 }
