@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Audi"
+  },
+  {
+    "id": 2,
+    "name": "BMW"
+  },
+  {
+    "id": 3,
+    "name": "Mercedes"
+  },
+  {
+    "id": 4,
+    "name": "Opel"
+  },
+  {
+    "id": 5,
+    "name": "Volkswagen"
+  },
+  {
+    "id": 6,
+    "name": "Renault"
+  },
+  {
+    "id": 7,
+    "name": "Fiat"
+  },
+  {
+    "id": 8,
+    "name": "Ford"
+  },
+  {
+    "id":9,
+    "name": "Porsche"
+  },
+  {
+    "id":10,
+    "name": "Tesla"
+  },
+  {
+    "id":10,
+    "name": "Nissan"
+  },
+  {
+    "id":11,
+    "name": "Toyota"
+  },
+  {
+    "id":12,
+    "name": "Honda"
+  },
+  {
+    "id":13,
+    "name": "Kia"
+  },
+  {
+    "id":14,
+    "name": "Mazda"
+  },
+  {
+    "id":15,
+    "name": "Mitsubishi"
+  },
+  {
+    "id":16,
+    "name": "Hyundai"
+  },
+  {
+    "id":17,
+    "name": "Chevrolet"
+  },
+  {
+    "id":18,
+    "name": "Dodge"
+  },
+  {
+    "id":19,
+    "name": "Seat"
+  },
+  {
+    "id":20 ,
+    "name": "Jaguar"
+  },
+  {
+    "id":21 ,
+    "name": "Volvo"
+  },
+  {
+    "id":22,
+    "name":"Tofaş"
+  },
+  {
+    "id":23,
+    "name":"Lada"
+  },
+  {
+    "id":24,
+    "name":"Lexus"
+  },
+  {
+    "id":25,
+    "name":"Maserati"
+  },
+  {
+    "id":26,
+    "name":"Bugatti"
+  },
+  {
+    "id":27,
+    "name":"Lamborghini"
+  },
+  {
+    "id":28,
+    "name":"Aston Martin"
+  },
+  {
+    "id":29 ,
+    "name":"Rolls-Royce"
+  },
+  {
+    "id":30 ,
+    "name":"McLaren"
+  },
+  {
+    "id":31,
+    "name":"Ferrari"
+  },
+  {
+    "id":32,
+    "name":"Alfa Romeo"
+  }
+]
