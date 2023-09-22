@@ -78,6 +78,7 @@ body .App{
 }
 .caption .filterArea .filterInput:focus{
     box-shadow: 5px 5px 0px  rgba(0, 0, 0, .3);
+    border-radius: 10px;
 }
 .width{
     width: 80%;

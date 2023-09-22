@@ -48,7 +48,6 @@ const Caption = () => {
             placeholder="Search a brand..."
           />
         </div>
-        {text}
       </div>
     </div>
   );
