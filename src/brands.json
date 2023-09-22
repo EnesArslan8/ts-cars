@@ -2,167 +2,200 @@
   {
     "id": 1,
     "name": "Audi",
-    "img":"https://seeklogo.com/images/A/Audi-logo-70A7072C07-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/A/Audi-logo-70A7072C07-seeklogo.com.png",
+    "background":"https://images.unsplash.com/photo-1610880846497-7257b23f6138?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXVkaXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
   },
   {
     "id": 2,
     "name": "BMW",
-    "img":"https://seeklogo.com/images/B/bmw-logo-248C3D90E6-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/B/bmw-logo-248C3D90E6-seeklogo.com.png",
+    "background":"https://media.istockphoto.com/id/1022249066/photo/bmw-car-on-sunset-sky.jpg?s=612x612&w=0&k=20&c=yQo7KG5fuJjv-qthkx5K2XPDEJwosZX2Q8pZlqRssCk="
   },
   {
     "id": 3,
     "name": "Mercedes",
-    "img":"https://seeklogo.com/images/M/mercedes-benz-logo-0DCE214555-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/M/mercedes-benz-logo-0DCE214555-seeklogo.com.png",
+    "background":"https://i.pinimg.com/736x/31/e1/23/31e12377bc4252f45349f90870ee6cb1--trendy-g-wagon.jpg"
   },
   {
     "id": 4,
     "name": "Opel",
-    "img":"https://seeklogo.com/images/O/opel-logo-64B5E7B6B0-seeklogo.com.png?v=638245935660000000"
+    "img":"https://seeklogo.com/images/O/opel-logo-64B5E7B6B0-seeklogo.com.png?v=638245935660000000",
+    "background":"https://www.notonlycars.net/wp-content/uploads/2020/07/105976014_263195448267538_5738826517249422913_n.png"
   },
   {
     "id": 5,
     "name": "Volkswagen",
-    "img":"https://seeklogo.com/images/V/Volkswagen-logo-FAE94F013E-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/V/Volkswagen-logo-FAE94F013E-seeklogo.com.png",
+    "background":"https://i.pinimg.com/1200x/a5/05/78/a505785d0b2289618f9ed20ce14d4b88.jpg"
   },
   {
     "id": 6,
     "name": "Renault",
-    "img":"https://seeklogo.com/images/R/renault-logo-AD22506690-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/R/renault-logo-AD22506690-seeklogo.com.png",
+    "background":"https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_645/zbdl0h51lcdr67mkq7ze.jpg"
   },
   {
     "id": 7,
     "name": "Fiat",
-    "img":"https://seeklogo.com/images/F/fiat-logo-41F5AE48DB-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/F/fiat-logo-41F5AE48DB-seeklogo.com.png",
+    "background":"https://hips.hearstapps.com/hmg-prod/images/ft020-062sp10o7fcesnrtuk9t72631k4ndgd-1575565256.jpg"
   },
   {
     "id": 8,
     "name": "Ford",
-    "img":"https://seeklogo.com/images/F/ford-logo-CA98E97A2B-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/F/ford-logo-CA98E97A2B-seeklogo.com.png",
+    "background":"https://hips.hearstapps.com/hmg-prod/images/2021-ford-gt-mmp-2-1594322403.jpg"
   },
   {
     "id":9,
     "name": "Porsche",
-    "img":"https://seeklogo.com/images/P/porsche-logo-E95DBC708B-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/P/porsche-logo-E95DBC708B-seeklogo.com.png",
+    "background":"https://e1.pxfuel.com/desktop-wallpaper/632/443/desktop-wallpaper-porsche-911-iphone-11-porsche-iphone.jpg"
   },
   {
     "id":10,
     "name": "Tesla",
-    "img":"https://seeklogo.com/images/T/tesla-logo-A847167C8B-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/T/tesla-logo-A847167C8B-seeklogo.com.png",
+    "background":"https://i.pinimg.com/550x/35/05/7c/35057c3270f124389c02cc4dadcde3a6.jpg"
   },
   {
     "id":10,
     "name": "Nissan",
-    "img":"https://seeklogo.com/images/N/Nissan-logo-4B3C580C8A-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/N/Nissan-logo-4B3C580C8A-seeklogo.com.png",
+    "background":"https://wallpapers.com/images/hd/nissan-silvia-s13-c8yj3t46hk49mc5j.jpg"
   },
   {
     "id":11,
     "name": "Toyota",
-    "img":"https://seeklogo.com/images/T/toyota-logo-08A29AEE08-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/T/toyota-logo-08A29AEE08-seeklogo.com.png",
+    "background":"https://e0.pxfuel.com/wallpapers/557/10/desktop-wallpaper-supra-by-pedrodavi27-dc-now-browse-millions-of-popular-forza-and-best-jdm-cars-toyota-supra-mk4-toyota-supra-neon-supra.jpg"
   },
   {
     "id":12,
     "name": "Honda",
-    "img":"https://seeklogo.com/images/H/honda-silver-logo-E810C6A8A4-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/H/honda-silver-logo-E810C6A8A4-seeklogo.com.png",
+    "background":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSi7TvaxI10obGst0kWonXcs01Vjwy0Xn_g&usqp=CAU"
   },
   {
     "id":13,
     "name": "Kia",
-    "img":"https://seeklogo.com/images/K/kia-logo-C41AA9A9B5-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/K/kia-logo-C41AA9A9B5-seeklogo.com.png",
+    "background":"https://images.netdirector.co.uk/gforces-auto/image/upload/w_701,h_526,q_auto,c_fill,f_auto,fl_lossy/auto-client/e97efa24e4b83f3f51a68f1bc6cd4ebe/ceed_phev_online001.jpg"
   },
   {
     "id":14,
     "name": "Mazda",
-    "img":"https://seeklogo.com/images/M/Mazda-logo-CC1CF9FB16-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/M/Mazda-logo-CC1CF9FB16-seeklogo.com.png",
+    "background":"https://c4.wallpaperflare.com/wallpaper/918/469/175/mazda-rx-7-mazda-forza-horizon-4-forza-car-hd-wallpaper-preview.jpg"
     
   },
   {
     "id":15,
     "name": "Mitsubishi",
-    "img":"https://seeklogo.com/images/M/mitsubishi-logo-67EA251D5A-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/M/mitsubishi-logo-67EA251D5A-seeklogo.com.png",
+    "background":"https://w0.peakpx.com/wallpaper/50/677/HD-wallpaper-lancer-ix-red-cars-fast-car-mitsubishi-evo.jpg"
   },
   {
     "id":16,
     "name": "Hyundai",
-    "img":"https://seeklogo.com/images/H/Hyundai_Motor_Company-logo-F02C4DDF50-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/H/Hyundai_Motor_Company-logo-F02C4DDF50-seeklogo.com.png",
+    "background":"https://www.conceptcarz.com/images/Hyundai/hyundai_tiburon_manu_06_03.jpg"
   },
   {
     "id":17,
     "name": "Chevrolet",
-    "img":"https://seeklogo.com/images/C/chevrolet-logo-F11AECA548-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/C/chevrolet-logo-F11AECA548-seeklogo.com.png",
+    "background":"https://i.pinimg.com/originals/64/99/69/649969a69368101e0e610b34479f9336.jpg"
   },
   {
     "id":18,
     "name": "Dodge",
-    "img":"https://seeklogo.com/images/D/Dodge-logo-91321131BF-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/D/Dodge-logo-91321131BF-seeklogo.com.png",
+    "background":"https://i.pinimg.com/originals/a0/72/c3/a072c325f5dd6073e70d69bce698a5a8.jpg"
   },
   {
     "id":19,
     "name": "Seat",
-    "img":"https://seeklogo.com/images/S/seat-logo-BBE6E1A4FC-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/S/seat-logo-BBE6E1A4FC-seeklogo.com.png",
+    "background":"https://i0.wp.com/www.testauto.pl/wp-content/uploads/2018/04/IMG_9226.jpg?fit=600%2C400&ssl=1"
   },
   {
     "id":20 ,
     "name": "Jaguar",
-    "img":"https://seeklogo.com/images/J/jaguar-logo-DFCA354A04-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/J/jaguar-logo-DFCA354A04-seeklogo.com.png",
+    "background":"https://i.pinimg.com/1200x/83/cd/66/83cd66f20534346e922916506a38cf45.jpg"
   },
   {
     "id":21 ,
     "name": "Volvo",
-    "img":"https://seeklogo.com/images/V/volvo-logo-2CF95F5CA2-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/V/volvo-logo-2CF95F5CA2-seeklogo.com.png",
+    "background":"https://w0.peakpx.com/wallpaper/1005/820/HD-wallpaper-volvo-240-80s-blue-car-nice.jpg"
   },
   {
     "id":22,
     "name":"Tofaş",
-    "img":"https://seeklogo.com/images/T/Tofas-logo-842C132FC5-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/T/Tofas-logo-842C132FC5-seeklogo.com.png",
+    "background":"https://www.webtekno.com/images/editor/default/0003/57/b09efe639096e5db65c47af96cbeac793d54759b.jpeg"
   },
   {
     "id":23,
     "name":"Lada",
-    "img":"https://seeklogo.com/images/L/lada-logo-23476B9EEF-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/L/lada-logo-23476B9EEF-seeklogo.com.png",
+    "background":"https://s0.smartresize.com/wallpaper/611/793/HD-wallpaper-lada-2103-cool-lada-range-ranger-russian-supernatural-white.jpg"
   },
   {
     "id":24,
     "name":"Lexus",
-    "img":"https://seeklogo.com/images/L/Lexus-logo-A6EDA1B5EB-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/L/Lexus-logo-A6EDA1B5EB-seeklogo.com.png",
+    "background":"https://i.pinimg.com/1200x/32/65/9c/32659c6ae8f9088055567975f16d2420.jpg"
   },
   {
     "id":25,
     "name":"Maserati",
-    "img":"https://seeklogo.com/images/M/maserati-logo-45C67144EE-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/M/maserati-logo-45C67144EE-seeklogo.com.png",
+    "background":"https://i.pinimg.com/1200x/3e/93/1a/3e931a70ab912c71d58079d3078e0ac9.jpg"
   },
   {
     "id":26,
     "name":"Bugatti",
-    "img":"https://seeklogo.com/images/B/bugatti-logo-DD42B484D6-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/B/bugatti-logo-DD42B484D6-seeklogo.com.png",
+    "background":"https://e0.pxfuel.com/wallpapers/649/907/desktop-wallpaper-black-bugatti-car-with-aesthetic-view-cars-bugatti-veyron-sports-cars-bugatti-bugatti-cars.jpg"
   },
   {
     "id":27,
     "name":"Hummer",
-    "img":"https://seeklogo.com/images/H/Hummer-logo-E9F1C37D4A-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/H/Hummer-logo-E9F1C37D4A-seeklogo.com.png",
+    "background":"https://c4.wallpaperflare.com/wallpaper/555/982/480/2008-alpha-hummer-wallpaper-preview.jpg"
   },
   {
     "id":28,
     "name":"Aston Martin",
-    "img":"https://seeklogo.com/images/A/aston-martin-logo-9CFEDDA60C-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/A/aston-martin-logo-9CFEDDA60C-seeklogo.com.png",
+    "background":"https://images.unsplash.com/photo-1611656825455-391f7cc38b9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXN0b24lMjBtYXJ0aW58ZW58MHx8MHx8fDA%3D&w=1000&q=80"
   },
   {
     "id":29 ,
     "name":"Rolls-Royce",
-    "img":"https://seeklogo.com/images/R/rolls-royce-logo-CCAE58CA2D-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/R/rolls-royce-logo-CCAE58CA2D-seeklogo.com.png",
+    "background":"https://i.pinimg.com/564x/35/52/53/355253e6c68ecc33a9ceaa51e8a69652.jpg"
   },
   {
     "id":30 ,
     "name":"McLaren",
-    "img":"https://seeklogo.com/images/M/mclaren-logo-15C0F9B74F-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/M/mclaren-logo-15C0F9B74F-seeklogo.com.png",
+    "background":"https://wallpapercave.com/wp/wp9689360.jpg"
   },
   {
     "id":31,
     "name":"Ferrari",
-    "img":"https://seeklogo.com/images/F/ferrari-logo-7935CF173C-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/F/ferrari-logo-7935CF173C-seeklogo.com.png",
+    "background":"https://i.pinimg.com/736x/95/15/cc/9515cc860325978a1b68ad9a4317281d.jpg"
   },
   {
     "id":32,
     "name":"Alfa Romeo",
-    "img":"https://seeklogo.com/images/A/Alfa_Romeo-logo-176ACD26B1-seeklogo.com.png"
+    "img":"https://seeklogo.com/images/A/Alfa_Romeo-logo-176ACD26B1-seeklogo.com.png",
+    "background":"https://www.supercars.net/blog/wp-content/uploads/2017/11/38997203-alfa-romeo-159-wallpapers.jpg"
   }
 ]

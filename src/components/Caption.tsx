@@ -10,7 +10,7 @@ const Caption = () => {
     setText(e.target.value);
   };
   return (
-    <div className="width">
+    <div className="width filter">
       <div className="caption">
         <div className="captionArea">
           <p>

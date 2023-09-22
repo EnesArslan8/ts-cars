@@ -67,6 +67,7 @@ body .App{
     justify-content: center;
     
 }
+
 .caption .filterArea .filterInput{
     width: 60%;
     height: 2rem;
@@ -80,8 +81,53 @@ body .App{
     box-shadow: 5px 5px 0px  rgba(0, 0, 0, .3);
     border-radius: 10px;
 }
+
+.brands{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.brands .card{
+    width: 30rem;
+    height: 20rem;
+    background-position: center !important;
+    object-fit: cover !important;
+    background-repeat: no-repeat !important;
+    margin: .5rem;
+    background-size: cover !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    filter: blur(1px);
+    transition: 600ms all;
+}
+.brands .card:hover{
+    filter: blur(0);
+    transition: 600ms all;
+}
+.brands .card:hover .logo{
+    opacity: 1;
+    transform: translate(0);
+    transition: 300ms all;
+}
+.brands .card .logo{
+   filter: drop-shadow(1px 2px 0 rgba(255,255,255,.9));
+    height: 30%;
+    opacity: 0;
+    transition: 600ms all;
+    transform: translate(-100px);
+    width: 40%;
+}
 .width{
     width: 80%;
     margin-top: 5rem;
     height: 100%;
+}
+.width.filter{
+    padding-bottom: 3rem;
+    border-bottom: 2px solid #dedede;
 }
