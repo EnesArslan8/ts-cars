@@ -2,200 +2,662 @@
   {
     "id": 1,
     "name": "Audi",
-    "img":"https://seeklogo.com/images/A/Audi-logo-70A7072C07-seeklogo.com.png",
-    "background":"https://images.unsplash.com/photo-1610880846497-7257b23f6138?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXVkaXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+    "img": "https://seeklogo.com/images/A/Audi-logo-70A7072C07-seeklogo.com.png",
+    "background": "https://images.unsplash.com/photo-1610880846497-7257b23f6138?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXVkaXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "models": [
+      {
+        "model": "Audi RS3",
+        "img": "https://i.pinimg.com/originals/12/bc/6d/12bc6d3ca90fa8cdf8f66717666afa27.jpg",
+        "price": "$61.995",
+        "year": 2023
+      },
+      {
+        "model": "Audi RS7",
+        "img": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fadi5wkiracs21.jpg",
+        "price": "$120,000",
+        "year": 2020
+      },
+      {
+        "model": "Audi RS TT",
+        "img": "https://www.hdcarwallpapers.com/thumbs/2022/audi_tt_rs_coupe_iconic_edition_2023_5k_2-t2.jpg",
+        "price": "$120,000",
+        "year": 2023
+      }
+    ]
   },
   {
     "id": 2,
     "name": "BMW",
-    "img":"https://seeklogo.com/images/B/bmw-logo-248C3D90E6-seeklogo.com.png",
-    "background":"https://media.istockphoto.com/id/1022249066/photo/bmw-car-on-sunset-sky.jpg?s=612x612&w=0&k=20&c=yQo7KG5fuJjv-qthkx5K2XPDEJwosZX2Q8pZlqRssCk="
+    "img": "https://seeklogo.com/images/B/bmw-logo-248C3D90E6-seeklogo.com.png",
+    "background": "https://media.istockphoto.com/id/1022249066/photo/bmw-car-on-sunset-sky.jpg?s=612x612&w=0&k=20&c=yQo7KG5fuJjv-qthkx5K2XPDEJwosZX2Q8pZlqRssCk=",
+    "models": [
+      {
+        "model": "BMW E30",
+        "img": "https://pbs.twimg.com/media/DKHVRm4WsAMGyH2.jpg",
+        "price": "$103.950",
+        "year": 1990
+      },
+      {
+        "model": "BMW M5",
+        "img": "https://i.pinimg.com/736x/80/4d/d6/804dd653036bedf7ef9d1f2dc51424e6.jpg",
+        "price": "$111.895",
+        "year": 2023
+      },
+      {
+        "model": "BMW E92",
+        "img":"https://c4.wallpaperflare.com/wallpaper/229/48/14/bmw-e92-reflection-m3-lime-rock-hd-wallpaper-preview.jpg",
+        "price":"$45.123",
+        "year":2013
+      }
+    ]
   },
   {
     "id": 3,
     "name": "Mercedes",
-    "img":"https://seeklogo.com/images/M/mercedes-benz-logo-0DCE214555-seeklogo.com.png",
-    "background":"https://i.pinimg.com/736x/31/e1/23/31e12377bc4252f45349f90870ee6cb1--trendy-g-wagon.jpg"
+    "img": "https://seeklogo.com/images/M/mercedes-benz-logo-0DCE214555-seeklogo.com.png",
+    "background": "https://i.pinimg.com/736x/31/e1/23/31e12377bc4252f45349f90870ee6cb1--trendy-g-wagon.jpg",
+    "models": [
+      {
+        "model": "Mercedes AMG GT",
+        "img": "https://wallpapers.com/images/hd/mercedes-amg-4k-black-aesthetic-car-by-grass-2xqaomkxbdgamu34.jpg",
+        "price": "$336.32840",
+        "year": 2023
+      },
+      {
+        "model": "Mercedes G-Class",
+        "img": "https://w0.peakpx.com/wallpaper/31/735/HD-wallpaper-mercedes-g-class-benz-black-g-class.jpg",
+        "price": "$101.650",
+        "year": 2018
+      },
+      {
+        "model": "Mercedes CLA 180",
+        "img":"https://i.pinimg.com/1200x/eb/7a/a6/eb7aa6cb943eacd5a2d282bbd45ababd.jpg",
+        "price":"$27.999",
+        "year":2013
+      }
+    ]
   },
   {
     "id": 4,
     "name": "Opel",
-    "img":"https://seeklogo.com/images/O/opel-logo-64B5E7B6B0-seeklogo.com.png?v=638245935660000000",
-    "background":"https://www.notonlycars.net/wp-content/uploads/2020/07/105976014_263195448267538_5738826517249422913_n.png"
+    "img": "https://seeklogo.com/images/O/opel-logo-64B5E7B6B0-seeklogo.com.png?v=638245935660000000",
+    "background": "https://www.notonlycars.net/wp-content/uploads/2020/07/105976014_263195448267538_5738826517249422913_n.png",
+    "models": [
+      {
+        "model": "Opel Menta",
+        "img": "https://wallpapercave.com/wp/wp10273898.jpg",
+        "price": "$50.000",
+        "year": 2022
+      },
+      {
+        "model":"Opel Calibra",
+        "img":"https://www.geilekarre.de/upload/karre/342999.jpg",
+        "price":"$43.155",
+        "year":1995
+      },
+      {
+        "model": "Opel Astra",
+        "img":"https://www.opelpost.com/wp-content/uploads/2022/09/01_DSC_2634-scaled.jpg",
+        "price":"$37.610",
+        "year":2023
+      }
+    ]
   },
   {
     "id": 5,
     "name": "Volkswagen",
-    "img":"https://seeklogo.com/images/V/Volkswagen-logo-FAE94F013E-seeklogo.com.png",
-    "background":"https://i.pinimg.com/1200x/a5/05/78/a505785d0b2289618f9ed20ce14d4b88.jpg"
+    "img": "https://seeklogo.com/images/V/Volkswagen-logo-FAE94F013E-seeklogo.com.png",
+    "background": "https://i.pinimg.com/1200x/a5/05/78/a505785d0b2289618f9ed20ce14d4b88.jpg",
+    "models": [
+      {
+        "model": "Volkswagen Golf MK5",
+        "img":"https://wallpapercave.com/wp/wp9769084.jpg",
+        "price":"$20.000",
+        "year":2015
+      },
+      {
+        "model": "Volkswagen Scirocco",
+        "img":"https://w0.peakpx.com/wallpaper/187/276/HD-wallpaper-volkswagen-scirocco-black-budapest-car-cars-red-vw.jpg",
+        "price":"$66.230",
+        "year":2017
+      },
+      {
+        "model": "Volkswagen Golft MK2",
+        "img":"https://wallpapercave.com/wp/wp11587789.jpg",
+        "price":"$4.000",
+        "year":1983
+      }
+    ]
   },
   {
     "id": 6,
     "name": "Renault",
-    "img":"https://seeklogo.com/images/R/renault-logo-AD22506690-seeklogo.com.png",
-    "background":"https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_645/zbdl0h51lcdr67mkq7ze.jpg"
+    "img": "https://seeklogo.com/images/R/renault-logo-AD22506690-seeklogo.com.png",
+    "background": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_645/zbdl0h51lcdr67mkq7ze.jpg",
+    "models": [
+      {
+        "model": "Renault Clio V6",
+        "img": "https://iedei.files.wordpress.com/2012/03/renault-clio-v6-mk1-2.jpeg",
+        "price": "$45.000",
+        "year": 2000
+      },
+      {
+        "model": "Renault Megane",
+        "img":"https://c4.wallpaperflare.com/wallpaper/188/497/242/renault-megane-headlights-light-night-wallpaper-preview.jpg",
+        "price":"$10.000",
+        "year":2009
+      },
+      {
+        "model": "Renault Megane RS",
+        "img":"https://e0.pxfuel.com/wallpapers/292/1001/desktop-wallpaper-renault-megane-rs-racing-teahub-io.jpg",
+        "price":"$72.550",
+        "year":2022
+      }
+    ]
   },
   {
     "id": 7,
     "name": "Fiat",
-    "img":"https://seeklogo.com/images/F/fiat-logo-41F5AE48DB-seeklogo.com.png",
-    "background":"https://hips.hearstapps.com/hmg-prod/images/ft020-062sp10o7fcesnrtuk9t72631k4ndgd-1575565256.jpg"
+    "img": "https://seeklogo.com/images/F/fiat-logo-41F5AE48DB-seeklogo.com.png",
+    "background": "https://hips.hearstapps.com/hmg-prod/images/ft020-062sp10o7fcesnrtuk9t72631k4ndgd-1575565256.jpg",
+    "models": [
+      {
+        "model": "Fiat 500",
+        "img":"https://wallpaperaccess.com/full/3444122.jpg",
+        "price":"$13.220",
+        "year":2021
+      },
+      {
+        "model": "Fiat Punto",
+        "img":"https://i.pinimg.com/originals/7a/4f/b4/7a4fb4e1be3b23bd4e46dbb272ddd2a7.jpg",
+        "price":"$7.000",
+        "year":2008
+      },
+      {
+        "model": "Fiat Spider",
+        "img":"https://c4.wallpaperflare.com/wallpaper/772/232/1006/fiat-124-convertible-car-wallpaper-preview.jpg",
+        "price":"$28.850",
+        "year":2021
+      }
+    ]
   },
   {
     "id": 8,
     "name": "Ford",
-    "img":"https://seeklogo.com/images/F/ford-logo-CA98E97A2B-seeklogo.com.png",
-    "background":"https://hips.hearstapps.com/hmg-prod/images/2021-ford-gt-mmp-2-1594322403.jpg"
+    "img": "https://seeklogo.com/images/F/ford-logo-CA98E97A2B-seeklogo.com.png",
+    "background": "https://hips.hearstapps.com/hmg-prod/images/2021-ford-gt-mmp-2-1594322403.jpg",
+    "models": [
+      {
+        "model": "Ford Mustang",
+        "img":"https://w0.peakpx.com/wallpaper/566/396/HD-wallpaper-mustang-car-retro-vintage.jpg",
+        "price":"$63.000",
+        "year":1967
+      },
+      {
+        "model": "Ford Focus RS",
+        "img":"https://i.pinimg.com/736x/ed/ee/ee/edeeeeb149425f35fff63ec1ecea2fbc.jpg",
+        "price":"$40.000",
+        "year":2016
+      },
+      {
+        "model": "Ford Shelby GT",
+        "img":"https://e0.pxfuel.com/wallpapers/424/920/desktop-wallpaper-ford-mustang-shelby-gt500-ultra-shelby-logo.jpg",
+        "price":"$150.000",
+        "year":2018
+      }
+    ]
   },
   {
-    "id":9,
+    "id": 9,
     "name": "Porsche",
-    "img":"https://seeklogo.com/images/P/porsche-logo-E95DBC708B-seeklogo.com.png",
-    "background":"https://e1.pxfuel.com/desktop-wallpaper/632/443/desktop-wallpaper-porsche-911-iphone-11-porsche-iphone.jpg"
+    "img": "https://seeklogo.com/images/P/porsche-logo-E95DBC708B-seeklogo.com.png",
+    "background": "https://e1.pxfuel.com/desktop-wallpaper/632/443/desktop-wallpaper-porsche-911-iphone-11-porsche-iphone.jpg",
+    "models": [
+      {
+        "model": "Porsche 911",
+        "img":"https://w0.peakpx.com/wallpaper/199/816/HD-wallpaper-porsche-gt3-car-cars-civic-coupe-genesis-modified-skyline-super-turbo-type.jpg",
+        "price":"$200.000",
+        "year":2011
+      },
+      {
+        "model": "Porsche Carrera GT",
+        "img":"https://c4.wallpaperflare.com/wallpaper/264/410/436/porsche-monochrome-porsche-carrera-gt-car-wallpaper-preview.jpg",
+        "price":"$150.000",
+        "year":2009
+      },
+      {
+        "model": "Porsche Taycan Turbo",
+        "img":"https://images.unsplash.com/photo-1633252921647-d421b27bb3bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cG9yc2NoZSUyMHRheWNhbnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+        "price":"$300.000",
+        "year":2022
+      }
+    ]
   },
   {
-    "id":10,
+    "id": 10,
     "name": "Tesla",
-    "img":"https://seeklogo.com/images/T/tesla-logo-A847167C8B-seeklogo.com.png",
-    "background":"https://i.pinimg.com/550x/35/05/7c/35057c3270f124389c02cc4dadcde3a6.jpg"
+    "img": "https://seeklogo.com/images/T/tesla-logo-A847167C8B-seeklogo.com.png",
+    "background": "https://i.pinimg.com/550x/35/05/7c/35057c3270f124389c02cc4dadcde3a6.jpg",
+    "models": [
+      {
+        "model": "Tesla Model S",
+        "img":"https://i.pinimg.com/550x/35/05/7c/35057c3270f124389c02cc4dadcde3a6.jpg",
+        "price":"$100.000",
+        "year":2022
+      },
+      {
+        "model": "Tesla Model X",
+        "img":"https://i.pinimg.com/originals/95/83/9b/95839b59567962054ecc1dbe7d4558e4.jpg",
+        "price":"$200.000",
+        "year":2022
+      }
+    ]
   },
   {
-    "id":10,
+    "id": 10,
     "name": "Nissan",
-    "img":"https://seeklogo.com/images/N/Nissan-logo-4B3C580C8A-seeklogo.com.png",
-    "background":"https://wallpapers.com/images/hd/nissan-silvia-s13-c8yj3t46hk49mc5j.jpg"
+    "img": "https://seeklogo.com/images/N/Nissan-logo-4B3C580C8A-seeklogo.com.png",
+    "background": "https://wallpapers.com/images/hd/nissan-silvia-s13-c8yj3t46hk49mc5j.jpg",
+    "models": [
+      {
+        "model": "Nissan Silvia S15",
+        "img":"https://i.pinimg.com/564x/b2/50/31/b25031c743d4e3271fcd062bbf6e44b1.jpg",
+        "price":"$277.000",
+        "year":2015
+      },
+      {
+        "model": "Nissan Silvia S14",
+        "img":"https://w0.peakpx.com/wallpaper/467/911/HD-wallpaper-jdm-car-drift-japan-nismo-nissan-s13-s14-s15-silvia.jpg",
+        "price":"$100.000",
+        "year":2014
+      },
+      {
+        "model":"Nissan Silvia S12",
+        "img":"https://i.pinimg.com/originals/27/e7/b6/27e7b69705e19b7ee4fcebad7d292547.jpg",
+        "price":"$173.700",
+        "year":2012
+      },
+      {
+        "model":"Nissan 240SX",
+        "img":"https://cdn.wallpapersafari.com/94/58/49w7eo.jpg",
+        "price":"$76.000",
+        "year":1987
+      },
+      {
+        "model":"Nissan 350Z",
+        "img":"https://i.pinimg.com/1200x/d8/e4/d3/d8e4d37c677740ded0956c7901a2aa2f.jpg",
+        "price":"$100.000",
+        "year":2005
+      },
+      {
+        "model":"Nissan Skyline GTR-R34",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4vV1T6U2aLHQRPpkmzB9KEcrohayYWOKq_nl9WYS_ivLpZzAIBYKaBe-1uIgZWuMmJHA&usqp=CAU",
+        "price":"$300.000",
+        "year":2002
+      },
+      {
+        "model":"Nissan Skyline GTR-R35",
+        "img":"https://i.pinimg.com/564x/13/19/7d/13197dcd4ab2f0de71b498fa5c291ed6.jpg",
+        "price":"$400.000",
+        "year":2016
+      }
+    ]
   },
   {
-    "id":11,
+    "id": 11,
     "name": "Toyota",
-    "img":"https://seeklogo.com/images/T/toyota-logo-08A29AEE08-seeklogo.com.png",
-    "background":"https://e0.pxfuel.com/wallpapers/557/10/desktop-wallpaper-supra-by-pedrodavi27-dc-now-browse-millions-of-popular-forza-and-best-jdm-cars-toyota-supra-mk4-toyota-supra-neon-supra.jpg"
+    "img": "https://seeklogo.com/images/T/toyota-logo-08A29AEE08-seeklogo.com.png",
+    "background": "https://e0.pxfuel.com/wallpapers/557/10/desktop-wallpaper-supra-by-pedrodavi27-dc-now-browse-millions-of-popular-forza-and-best-jdm-cars-toyota-supra-mk4-toyota-supra-neon-supra.jpg",
+    "models": [
+      {
+        "model": "Toyota Supra",
+        "img":"https://e0.pxfuel.com/wallpapers/439/54/desktop-wallpaper-supra-mk4-jdm-supra-mk4.jpg",
+        "price":"$100.000",
+        "year":2013
+      },
+      {
+        "model": "Toyota 86",
+        "img":"https://w0.peakpx.com/wallpaper/630/772/HD-wallpaper-toyota-drift-gt-86-pink-rocket-bunny-tokio-widebody.jpg",
+        "price":"$100.000",
+        "year":2015
+      },
+      {
+        "model": "Toyota Corolla AE86",
+        "img":"https://cdn.wallpapersafari.com/50/27/PwAY20.jpg",
+        "price":"$435.000",
+        "year":1997
+      }
+    ]
   },
   {
-    "id":12,
+    "id": 12,
     "name": "Honda",
-    "img":"https://seeklogo.com/images/H/honda-silver-logo-E810C6A8A4-seeklogo.com.png",
-    "background":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSi7TvaxI10obGst0kWonXcs01Vjwy0Xn_g&usqp=CAU"
+    "img": "https://seeklogo.com/images/H/honda-silver-logo-E810C6A8A4-seeklogo.com.png",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSi7TvaxI10obGst0kWonXcs01Vjwy0Xn_g&usqp=CAU",
+    "models": [
+      {
+        "model": "Honda Civic",
+        "img":"https://wallpaperaccess.com/full/2867834.jpg",
+        "price":"$21.000",
+        "year":1999
+      },
+      {
+        
+        "model": "Honda NSX",
+        "img":"https://i.pinimg.com/1200x/90/a8/31/90a831500fe4b4fb6bc34596d2674257.jpg",
+        "price":"$330.000",
+        "year":1997
+      }
+    ]
   },
   {
-    "id":13,
+    "id": 13,
     "name": "Kia",
-    "img":"https://seeklogo.com/images/K/kia-logo-C41AA9A9B5-seeklogo.com.png",
-    "background":"https://images.netdirector.co.uk/gforces-auto/image/upload/w_701,h_526,q_auto,c_fill,f_auto,fl_lossy/auto-client/e97efa24e4b83f3f51a68f1bc6cd4ebe/ceed_phev_online001.jpg"
+    "img": "https://seeklogo.com/images/K/kia-logo-C41AA9A9B5-seeklogo.com.png",
+    "background": "https://images.netdirector.co.uk/gforces-auto/image/upload/w_701,h_526,q_auto,c_fill,f_auto,fl_lossy/auto-client/e97efa24e4b83f3f51a68f1bc6cd4ebe/ceed_phev_online001.jpg",
+    "models": [
+      {
+        "model": "Kia K5 GT-Line",
+        "img":"https://i.pinimg.com/originals/ca/0a/7b/ca0a7ba910f266f9fdf9d5e4d5624feb.jpg",
+        "price":"$53.000",
+        "year":2022
+      }
+    ]
   },
   {
-    "id":14,
+    "id": 14,
     "name": "Mazda",
-    "img":"https://seeklogo.com/images/M/Mazda-logo-CC1CF9FB16-seeklogo.com.png",
-    "background":"https://c4.wallpaperflare.com/wallpaper/918/469/175/mazda-rx-7-mazda-forza-horizon-4-forza-car-hd-wallpaper-preview.jpg"
-    
+    "img": "https://seeklogo.com/images/M/Mazda-logo-CC1CF9FB16-seeklogo.com.png",
+    "background": "https://c4.wallpaperflare.com/wallpaper/918/469/175/mazda-rx-7-mazda-forza-horizon-4-forza-car-hd-wallpaper-preview.jpg",
+    "models": [
+      {
+        "model": "Mazda RX-7",
+        "img":"https://e0.pxfuel.com/wallpapers/538/378/desktop-wallpaper-car-rx7-ardtun-rx8-mazdarx-mazda-vehicle.jpg",
+        "price":"$289.000",
+        "year":2005
+      },
+      {
+        "model": "Mazda RX-8",
+        "img":"https://wallpaper-house.com/data/out/8/wallpaper2you_217625.jpg",
+        "price":"$200.000",
+        "year":2004
+      },
+      {
+        "model":"Mazda Miata",
+        "img":"https://w0.peakpx.com/wallpaper/414/366/HD-wallpaper-mazda-mx5-car.jpg",
+        "price":"$100.000",
+        "year":2001
+      }
+    ]
   },
   {
-    "id":15,
+    "id": 15,
     "name": "Mitsubishi",
-    "img":"https://seeklogo.com/images/M/mitsubishi-logo-67EA251D5A-seeklogo.com.png",
-    "background":"https://w0.peakpx.com/wallpaper/50/677/HD-wallpaper-lancer-ix-red-cars-fast-car-mitsubishi-evo.jpg"
+    "img": "https://seeklogo.com/images/M/mitsubishi-logo-67EA251D5A-seeklogo.com.png",
+    "background": "https://w0.peakpx.com/wallpaper/50/677/HD-wallpaper-lancer-ix-red-cars-fast-car-mitsubishi-evo.jpg",
+    "models": [
+      {
+        "model": "Mitsubishi Lancer",
+        "img":"https://images.unsplash.com/photo-1595803475218-21bd60bfd520?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bGFuY2VyfGVufDB8fDB8fHww&w=1000&q=80",
+        "price":"$100.000",
+        "year":2006
+      }
+    ]
   },
   {
-    "id":16,
+    "id": 16,
     "name": "Hyundai",
-    "img":"https://seeklogo.com/images/H/Hyundai_Motor_Company-logo-F02C4DDF50-seeklogo.com.png",
-    "background":"https://www.conceptcarz.com/images/Hyundai/hyundai_tiburon_manu_06_03.jpg"
+    "img": "https://seeklogo.com/images/H/Hyundai_Motor_Company-logo-F02C4DDF50-seeklogo.com.png",
+    "background": "https://www.conceptcarz.com/images/Hyundai/hyundai_tiburon_manu_06_03.jpg",
+    "models": [
+      {
+        "model": "Hyundai Tiburon GT",
+        "img":"https://i.pinimg.com/originals/88/c0/cd/88c0cde3ff8ccb40d1761777e87c57c7.jpg",
+        "price":"$100.000",
+        "year":2005
+      }
+    ]
   },
   {
-    "id":17,
+    "id": 17,
     "name": "Chevrolet",
-    "img":"https://seeklogo.com/images/C/chevrolet-logo-F11AECA548-seeklogo.com.png",
-    "background":"https://i.pinimg.com/originals/64/99/69/649969a69368101e0e610b34479f9336.jpg"
+    "img": "https://seeklogo.com/images/C/chevrolet-logo-F11AECA548-seeklogo.com.png",
+    "background": "https://i.pinimg.com/originals/64/99/69/649969a69368101e0e610b34479f9336.jpg",
+    "models": [
+      {
+        "model": "Chevrolet Camaro",
+        "img":"https://i.pinimg.com/1200x/6f/df/4a/6fdf4a50cc237868b2dcb9c4dfd7df8f.jpg",
+        "price":"$160.000",
+        "year":2006
+      },
+      {
+        "model": "Chevrolet Corvette",
+        "img":"https://images4.alphacoders.com/595/595347.jpg",
+        "price":"$300.000",
+        "year":1971
+      }
+    ]
   },
   {
-    "id":18,
+    "id": 18,
     "name": "Dodge",
-    "img":"https://seeklogo.com/images/D/Dodge-logo-91321131BF-seeklogo.com.png",
-    "background":"https://i.pinimg.com/originals/a0/72/c3/a072c325f5dd6073e70d69bce698a5a8.jpg"
+    "img": "https://seeklogo.com/images/D/Dodge-logo-91321131BF-seeklogo.com.png",
+    "background": "https://i.pinimg.com/originals/a0/72/c3/a072c325f5dd6073e70d69bce698a5a8.jpg",
+    "models": [
+      {
+        "model": "Dodge Challenger",
+        "img":"https://i.pinimg.com/736x/45/75/e6/4575e61a15f3dfa0d81011724961f9bc.jpg",
+        "price":"$100.000",
+        "year":2011
+      },
+      {
+        "model": "Dodge Charger",
+        "img":"https://wallpapercave.com/wp/Dwhw5Vc.jpg",
+        "price":"$100.000",
+        "year":1969
+      }
+    ]
   },
   {
-    "id":19,
+    "id": 19,
     "name": "Seat",
-    "img":"https://seeklogo.com/images/S/seat-logo-BBE6E1A4FC-seeklogo.com.png",
-    "background":"https://i0.wp.com/www.testauto.pl/wp-content/uploads/2018/04/IMG_9226.jpg?fit=600%2C400&ssl=1"
+    "img": "https://seeklogo.com/images/S/seat-logo-BBE6E1A4FC-seeklogo.com.png",
+    "background": "https://i0.wp.com/www.testauto.pl/wp-content/uploads/2018/04/IMG_9226.jpg?fit=600%2C400&ssl=1",
+    "models": [
+      {
+        "model": "Seat Ibiza",
+        "img":"https://www.carpixel.net/w/c28a96549228e50e42bbc348acd7af5d/seat-ibiza-car-wallpaper-65425.jpg",
+        "price":"$13.000",
+        "year":2017
+      }
+    ]
   },
   {
-    "id":20 ,
+    "id": 20,
     "name": "Jaguar",
-    "img":"https://seeklogo.com/images/J/jaguar-logo-DFCA354A04-seeklogo.com.png",
-    "background":"https://i.pinimg.com/1200x/83/cd/66/83cd66f20534346e922916506a38cf45.jpg"
+    "img": "https://seeklogo.com/images/J/jaguar-logo-DFCA354A04-seeklogo.com.png",
+    "background": "https://i.pinimg.com/1200x/83/cd/66/83cd66f20534346e922916506a38cf45.jpg",
+    "models": [
+      {
+        "model": "Jaguar F-Type",
+        "img":"https://wallpapershome.com/images/pages/pic_v/19541.jpg",
+        "price":"$320.000",
+        "year":2019
+      }
+    ]
   },
   {
-    "id":21 ,
+    "id": 21,
     "name": "Volvo",
-    "img":"https://seeklogo.com/images/V/volvo-logo-2CF95F5CA2-seeklogo.com.png",
-    "background":"https://w0.peakpx.com/wallpaper/1005/820/HD-wallpaper-volvo-240-80s-blue-car-nice.jpg"
+    "img": "https://seeklogo.com/images/V/volvo-logo-2CF95F5CA2-seeklogo.com.png",
+    "background": "https://w0.peakpx.com/wallpaper/1005/820/HD-wallpaper-volvo-240-80s-blue-car-nice.jpg",
+    "models": [
+      {
+        "model": "Volvo 240",
+        "img":"https://w0.peakpx.com/wallpaper/988/812/HD-wallpaper-volvo-240-airport-car-japan-sunset-volvo240-thumbnail.jpg",
+        "price":"$20.000",
+        "year":1977
+      }
+    ]
   },
   {
-    "id":22,
-    "name":"Tofaş",
-    "img":"https://seeklogo.com/images/T/Tofas-logo-842C132FC5-seeklogo.com.png",
-    "background":"https://www.webtekno.com/images/editor/default/0003/57/b09efe639096e5db65c47af96cbeac793d54759b.jpeg"
+    "id": 22,
+    "name": "Tofaş",
+    "img": "https://seeklogo.com/images/T/Tofas-logo-842C132FC5-seeklogo.com.png",
+    "background": "https://www.webtekno.com/images/editor/default/0003/57/b09efe639096e5db65c47af96cbeac793d54759b.jpeg",
+    "models": [
+      {
+        "model": "Tofas Doğan SLX",
+        "img":"https://w0.peakpx.com/wallpaper/84/380/HD-wallpaper-tofas-dogan-slx-araba-arabalar-thumbnail.jpg",
+        "price":"$1",
+        "year":1993
+      }
+    ]
   },
   {
-    "id":23,
-    "name":"Lada",
-    "img":"https://seeklogo.com/images/L/lada-logo-23476B9EEF-seeklogo.com.png",
-    "background":"https://s0.smartresize.com/wallpaper/611/793/HD-wallpaper-lada-2103-cool-lada-range-ranger-russian-supernatural-white.jpg"
+    "id": 23,
+    "name": "Lada",
+    "img": "https://seeklogo.com/images/L/lada-logo-23476B9EEF-seeklogo.com.png",
+    "background": "https://s0.smartresize.com/wallpaper/611/793/HD-wallpaper-lada-2103-cool-lada-range-ranger-russian-supernatural-white.jpg",
+    "models": [
+      {
+        "model": "Lada Vaz 2103",
+        "img":"https://c4.wallpaperflare.com/wallpaper/738/52/1010/car-old-car-russian-cars-lada-wallpaper-preview.jpg",
+        "price":"$1",
+        "year":1990
+      }
+    ]
   },
   {
-    "id":24,
-    "name":"Lexus",
-    "img":"https://seeklogo.com/images/L/Lexus-logo-A6EDA1B5EB-seeklogo.com.png",
-    "background":"https://i.pinimg.com/1200x/32/65/9c/32659c6ae8f9088055567975f16d2420.jpg"
+    "id": 24,
+    "name": "Lexus",
+    "img": "https://seeklogo.com/images/L/Lexus-logo-A6EDA1B5EB-seeklogo.com.png",
+    "background": "https://i.pinimg.com/1200x/32/65/9c/32659c6ae8f9088055567975f16d2420.jpg",
+    "models": [
+      {
+        "model": "Lexus LC",
+        "img":"https://wallpapers.com/images/hd/rc-car-vsd7ivqi66b8s07u.jpg",
+        "price":"$122.245",
+        "year":2020
+      }
+    ]
   },
   {
-    "id":25,
-    "name":"Maserati",
-    "img":"https://seeklogo.com/images/M/maserati-logo-45C67144EE-seeklogo.com.png",
-    "background":"https://i.pinimg.com/1200x/3e/93/1a/3e931a70ab912c71d58079d3078e0ac9.jpg"
+    "id": 25,
+    "name": "Maserati",
+    "img": "https://seeklogo.com/images/M/maserati-logo-45C67144EE-seeklogo.com.png",
+    "background": "https://i.pinimg.com/1200x/3e/93/1a/3e931a70ab912c71d58079d3078e0ac9.jpg",
+    "models": [
+      {
+        "model": "Maserati GranTurismo Folgore",
+        "img":"https://cdn.automobile-propre.com/uploads/2023/05/Maserati-GranTurismo-Folgore-2.jpg",
+        "price":"$112.200",
+        "year":2019
+      }
+    ]
   },
   {
-    "id":26,
-    "name":"Bugatti",
-    "img":"https://seeklogo.com/images/B/bugatti-logo-DD42B484D6-seeklogo.com.png",
-    "background":"https://e0.pxfuel.com/wallpapers/649/907/desktop-wallpaper-black-bugatti-car-with-aesthetic-view-cars-bugatti-veyron-sports-cars-bugatti-bugatti-cars.jpg"
+    "id": 26,
+    "name": "Bugatti",
+    "img": "https://seeklogo.com/images/B/bugatti-logo-DD42B484D6-seeklogo.com.png",
+    "background": "https://e0.pxfuel.com/wallpapers/649/907/desktop-wallpaper-black-bugatti-car-with-aesthetic-view-cars-bugatti-veyron-sports-cars-bugatti-bugatti-cars.jpg",
+    "models": [
+      {
+        "model": "Bugatti Veyron",
+        "img":"https://i.pinimg.com/1200x/30/94/8b/30948bf701cee21e342bbe704ecff9db.jpg",
+        "price":"$399.999",
+        "year":2012
+      }
+    ]
   },
   {
-    "id":27,
-    "name":"Hummer",
-    "img":"https://seeklogo.com/images/H/Hummer-logo-E9F1C37D4A-seeklogo.com.png",
-    "background":"https://c4.wallpaperflare.com/wallpaper/555/982/480/2008-alpha-hummer-wallpaper-preview.jpg"
+    "id": 27,
+    "name": "Hummer",
+    "img": "https://seeklogo.com/images/H/Hummer-logo-E9F1C37D4A-seeklogo.com.png",
+    "background": "https://c4.wallpaperflare.com/wallpaper/555/982/480/2008-alpha-hummer-wallpaper-preview.jpg",
+    "models": [
+      {
+        "model": "Hummer H1",
+        "img":"https://wallpaperaccess.com/full/2322936.jpg",
+        "price":"$57.000",
+        "year":2019
+      }
+    ]
   },
   {
-    "id":28,
-    "name":"Aston Martin",
-    "img":"https://seeklogo.com/images/A/aston-martin-logo-9CFEDDA60C-seeklogo.com.png",
-    "background":"https://images.unsplash.com/photo-1611656825455-391f7cc38b9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXN0b24lMjBtYXJ0aW58ZW58MHx8MHx8fDA%3D&w=1000&q=80"
+    "id": 28,
+    "name": "Aston Martin",
+    "img": "https://seeklogo.com/images/A/aston-martin-logo-9CFEDDA60C-seeklogo.com.png",
+    "background": "https://images.unsplash.com/photo-1611656825455-391f7cc38b9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXN0b24lMjBtYXJ0aW58ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+    "models": [
+      {
+        "model": "Aston Martin DB11",
+        "img":"https://c4.wallpaperflare.com/wallpaper/8/96/834/aston-martin-db11-aston-martin-cars-4k-wallpaper-preview.jpg",
+        "price":"$293.000",
+        "year":2011
+      }
+    ]
   },
   {
-    "id":29 ,
-    "name":"Rolls-Royce",
-    "img":"https://seeklogo.com/images/R/rolls-royce-logo-CCAE58CA2D-seeklogo.com.png",
-    "background":"https://i.pinimg.com/564x/35/52/53/355253e6c68ecc33a9ceaa51e8a69652.jpg"
+    "id": 29,
+    "name": "Rolls-Royce",
+    "img": "https://seeklogo.com/images/R/rolls-royce-logo-CCAE58CA2D-seeklogo.com.png",
+    "background": "https://i.pinimg.com/564x/35/52/53/355253e6c68ecc33a9ceaa51e8a69652.jpg",
+    "models": [
+      {
+        "model": "Rolls-Royce Phantom",
+        "img":"https://i.pinimg.com/originals/8d/a7/9b/8da79b737abfd15886fb37faa63e37e0.jpg",
+        "price":"$300.000",
+        "year":2015
+      }
+    ]
   },
   {
-    "id":30 ,
-    "name":"McLaren",
-    "img":"https://seeklogo.com/images/M/mclaren-logo-15C0F9B74F-seeklogo.com.png",
-    "background":"https://wallpapercave.com/wp/wp9689360.jpg"
+    "id": 30,
+    "name": "McLaren",
+    "img": "https://seeklogo.com/images/M/mclaren-logo-15C0F9B74F-seeklogo.com.png",
+    "background": "https://wallpapercave.com/wp/wp9689360.jpg",
+    "models": [
+      {
+        "model": "McLaren Senna",
+        "img":"https://e0.pxfuel.com/wallpapers/898/218/desktop-wallpaper-fh4-mclaren-senna-phone-thumbnail.jpg",
+        "price":"$657.112",
+        "year":2019
+      }
+    ]
   },
   {
-    "id":31,
-    "name":"Ferrari",
-    "img":"https://seeklogo.com/images/F/ferrari-logo-7935CF173C-seeklogo.com.png",
-    "background":"https://i.pinimg.com/736x/95/15/cc/9515cc860325978a1b68ad9a4317281d.jpg"
+    "id": 31,
+    "name": "Ferrari",
+    "img": "https://seeklogo.com/images/F/ferrari-logo-7935CF173C-seeklogo.com.png",
+    "background": "https://i.pinimg.com/736x/95/15/cc/9515cc860325978a1b68ad9a4317281d.jpg",
+    "models": [
+      {
+        "model": "Ferrari 488",
+        "img":"https://w0.peakpx.com/wallpaper/244/997/HD-wallpaper-ferrari-488-white-car-supercar-sports-america-new-night.jpg",
+        "price":"$655.233",
+        "year":2015
+      },
+      {
+        "model": "Ferrari F40",
+        "img":"https://i.pinimg.com/736x/ee/85/a3/ee85a347d2087b9dc8d9cd694b26e143.jpg",
+        "price":"$599.000",
+        "year":1996
+      }
+    ]
   },
   {
-    "id":32,
-    "name":"Alfa Romeo",
-    "img":"https://seeklogo.com/images/A/Alfa_Romeo-logo-176ACD26B1-seeklogo.com.png",
-    "background":"https://www.supercars.net/blog/wp-content/uploads/2017/11/38997203-alfa-romeo-159-wallpapers.jpg"
+    "id": 32,
+    "name": "Alfa Romeo",
+    "img": "https://seeklogo.com/images/A/Alfa_Romeo-logo-176ACD26B1-seeklogo.com.png",
+    "background": "https://www.supercars.net/blog/wp-content/uploads/2017/11/38997203-alfa-romeo-159-wallpapers.jpg",
+    "models": [
+      {
+        "model": "Alfa Romeo Giulia",
+        "img":"https://w0.peakpx.com/wallpaper/29/683/HD-wallpaper-alfa-romeo-giulia-alfa-romeo-autos-blue-car-cars-motors-mountains-snow-thumbnail.jpg",
+        "price":"$23.000",
+        "year":2021
+      }
+    ]
   }
 ]

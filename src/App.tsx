@@ -3,11 +3,11 @@ import "./App.css";
 import Header from "./components/Header";
 import Caption from "./components/Caption";
 import Brands from "./components/Brands";
-import { Routes, Route,useParams } from "react-router-dom";
+import { Routes, Route, useParams } from "react-router-dom";
 import Brand from "./components/Brand";
 
 interface IIsRoute {
-  isRoute: boolean
+  isRoute: boolean;
 }
 function App() {
   const [isRoute, setIsRoute] = useState(false);
@@ -21,7 +21,7 @@ function App() {
         </>
       ) : (
         <Routes>
-          <Route path={`/brand/:name`} element={<Brand />}  />
+          <Route path={`/brand/:name`} element={<Brand />} />
         </Routes>
       )}
     </div>
