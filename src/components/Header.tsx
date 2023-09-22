@@ -1,7 +1,14 @@
-const Header = () => {
+import { Link } from "react-router-dom"
+import { IBrand } from "./Brands"
+const Header = ({setIsRoute}:IBrand) => {
+  const handleClick=()=>{
+    setIsRoute(false)
+}
   return (
     <div className="header">
-        <h1 className="title">CAR'S</h1>
+      <Link to='/'>
+        <h1 onClick={handleClick} className="title">CAR'S</h1>
+      </Link>
     </div>
   )
 }

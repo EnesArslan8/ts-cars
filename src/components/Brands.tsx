@@ -1,21 +1,28 @@
 import React from "react";
 import BrandsInfo from "../brands.json";
+import { Link } from "react-router-dom";
 
-interface IBrand {
-  id: number;
-  name: string;
-  img: string;
-  //   BrandsInfo: { id: number; name: string; img: string; }[]; // Add this line
+export interface IBrand {
+  setIsRoute:React.Dispatch<React.SetStateAction<boolean>>
 }
 
-const Brands = () => {
+const Brands = ({setIsRoute}:IBrand) => {
+    const handleClick=()=>{
+        setIsRoute(true)
+    }
   return (
     <div className="width">
       <div className="brands">
         {BrandsInfo.map((item) => (
-          <div className="card" style={{background:`url(${item.background})`}}>
-            <img className="logo" src={item.img} alt="logo" />
-          </div>
+          <Link to={`/brand/${item.name}`} key={item.id}>
+            <div
+              className="card"
+              onClick={handleClick}
+              style={{ background: `url(${item.background})` }}
+            >
+              <img className="logo" src={item.img} alt="logo" />
+            </div>
+          </Link>
         ))}
       </div>
     </div>
