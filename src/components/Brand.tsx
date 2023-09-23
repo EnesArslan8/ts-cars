@@ -22,16 +22,11 @@ const Brand = () => {
                 <img className="logo" src={item.img} alt="logo" />
               </div>
               <div className="rightSide">
-                <h1>{item.model}</h1>
-                <p>{item.price}</p>
-                <p>{item.year}</p>
+                <h1 className="modelTitle">{item.model}</h1>
+                <p className="modelPrice">Price : {item.price} </p>
+                <p className="modelYear">Year : {item.year}</p>
               </div>
-              {/* <div style={{ background:`url(${item.img})`,height:'500px',backgroundRepeat:'no-repeat',backgroundSize }}>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Mollitia temporibus, voluptatem sunt saepe voluptatibus deleniti
-                dolores. Cum eveniet ratione adipisci illo labore qui nam,
-                voluptate, at eaque consectetur atque voluptatibus?
-              </div> */}
+              
             </div>
           ))
         ) : (

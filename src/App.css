@@ -144,7 +144,23 @@ body .App{
 }
 .brandContainer .rightSide{
     width: 50%;
-    height: 100%;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+.brandContainer .rightSide .modelTitle{
+    font-size: 50px;
+    margin: 3rem 1rem 1rem 1rem ;
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, .4);
+}
+.brandContainer .rightSide .modelPrice{
+    font-size: 30px;
+    margin: 2rem 0 1rem 0;
+}
+.brandContainer .rightSide .modelYear{
+    font-size: 30px;
+    margin: 2rem 0 1rem 0;
 }
 .width{
     width: 80%;

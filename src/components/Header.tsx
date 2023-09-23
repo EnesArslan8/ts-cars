@@ -6,7 +6,7 @@ const Header = ({setIsRoute}:IBrand) => {
 }
   return (
     <div className="header">
-      <Link to='/'>
+      <Link style={{textDecoration:'none'}} to='/'>
         <h1 onClick={handleClick} className="title">CAR'S</h1>
       </Link>
     </div>
