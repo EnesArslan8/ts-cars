@@ -1,14 +1,22 @@
 import { useState, ChangeEvent } from "react";
+import brand from '../brands.json'
 
 interface IFilterInput {
   text: string;
+  handleInputChange:any
 }
 
-const Caption = () => {
-  const [text, setText] = useState<string>("");
-  const handleInputChange = (e: ChangeEvent<HTMLInputElement>) => {
-    setText(e.target.value);
-  };
+const Caption = ({handleInputChange,text}:IFilterInput) => {
+  // const [text, setText] = useState<string>("");
+  // const handleInputChange = (e: ChangeEvent<HTMLInputElement>) => {
+  //   setText(e.target.value);
+    
+  //   brand.filter((item)=>{
+  //     if(item.name.includes(text)){
+  //       return item
+  //     }
+  //   })
+  // };
   return (
     <div className="width filter">
       <div className="caption">

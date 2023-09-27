@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom"
-import { IBrand } from "./Brands"
-const Header = ({setIsRoute}:IBrand) => {
+interface IHeader{
+  setIsRoute: React.Dispatch<React.SetStateAction<boolean>>
+}
+const Header = ({setIsRoute}:IHeader) => {
   const handleClick=()=>{
     setIsRoute(false)
 }

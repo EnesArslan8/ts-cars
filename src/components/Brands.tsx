@@ -3,17 +3,23 @@ import BrandsInfo from "../brands.json";
 import { Link } from "react-router-dom";
 
 export interface IBrand {
-  setIsRoute:React.Dispatch<React.SetStateAction<boolean>>
+  setIsRoute: React.Dispatch<React.SetStateAction<boolean>>;
+  text: string;
+  brand: Array<any>;
 }
 
-const Brands = ({setIsRoute}:IBrand) => {
-    const handleClick=()=>{
-        setIsRoute(true)
-    }
+const Brands = ({ setIsRoute, text, brand }: IBrand) => {
+  const filteredBrands = brand?.filter((item) => {
+    return item.name.toLowerCase().includes(text);
+  });
+  console.log(filteredBrands)
+  const handleClick = () => {
+    setIsRoute(true);
+  };
   return (
     <div className="width">
       <div className="brands">
-        {BrandsInfo.map((item) => (
+        {filteredBrands.map((item) => (
           <Link to={`/brand/${item.name}`} key={item.id}>
             <div
               className="card"
