@@ -37,7 +37,15 @@ This command will launch the project on a local server and display it in your br
 
 ## Contribution
 
-If you'd like to contribute to the project's development, you can use the "Fork & Pull Request" method. Please don't forget to provide explanations for your changes.
+If you'd like to contribute to the project, you can follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/new-feature` or `git checkout -b bugfix/bug-fix`.
+3. Commit your changes: `git commit -am 'Added a new feature'` or `git commit -am 'Fixed a bug'`.
+4. Push your branch: `git push origin feature/new-feature` or `git push origin bugfix/bug-fix`.
+5. Create a Pull Request.
+
+Please provide detailed explanations for your changes.
 
 ## References
 
